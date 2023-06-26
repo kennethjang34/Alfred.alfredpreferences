@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "source ~\/venv\/bin\/activate",
+    "uid" : "A92539AD-E979-47E7-843D-CAA4EC50EB49",
+    "name" : "Home Venv Sourcing",
+    "keyword" : "venv"
+  }
+}

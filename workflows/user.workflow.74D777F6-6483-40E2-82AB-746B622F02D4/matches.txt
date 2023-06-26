@@ -1,0 +1,9 @@
+DiscordBot/node_modules/ws/lib/Sender.js
+DiscordBot/node_modules/colors/lib/system
+DiscordBot/node_modules/colors/lib/styles.js
+DiscordBot/node_modules/ws/lib/Sender.hixie.js
+DiscordBot/kimberly_bot/node_modules/ws/lib/Sender.js
+DiscordBot/node_modules/colors/lib/system/has-flag.js
+DiscordBot/kimberly_bot/node_modules/colors/lib/system
+DiscordBot/node_modules/stack-trace/lib/stack-trace.js
+DiscordBot/kimberly_bot/node_modules/colors/lib/styles.js

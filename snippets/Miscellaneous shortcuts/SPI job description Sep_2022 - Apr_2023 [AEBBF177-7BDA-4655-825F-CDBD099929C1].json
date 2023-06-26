@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "Added global state management and caching logic to maintain and persist user-requested data with customized visual state in Angular-based frontend (Typescript)\nOptimized data queries in the flask-based backend of an in-house app and implemented selective caching of the result, reducing page loading time by up to 85%\nBuilt RESTful API using Django and Flask to fulfill user stories and feedback received in bi-weekly client meetings\nFixed data inconsistency issues between different databases and wrote a Python script that generates CSV files of corrupt data records for managers to fix\nWrote a Python script for automating the attachment of Google Drive survey links to emails by dynamically fetching the links assigned to each department through the Google API\nDeveloped a Python API wrapper for ticket data migration from a local database to a cloud-based third-party ITSM app\nDeployed changes to a service bi-weekly using Gitlab's CI\/CD pipeline and Red Hat OpenShift",
+    "uid" : "AEBBF177-7BDA-4655-825F-CDBD099929C1",
+    "name" : "SPI job description Sep_2022 - Apr_2023",
+    "keyword" : "job_description"
+  }
+}

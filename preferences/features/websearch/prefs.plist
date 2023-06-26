@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customSites</key>
+	<dict>
+		<key>18908DEF-F1C1-4D02-A44E-66967E8852AA</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>ssc</string>
+			<key>text</key>
+			<string>UBC SSC</string>
+			<key>url</key>
+			<string>https://ssc.adm.ubc.ca/sscportal/servlets/SRVSSCFramework;jsessionid=fg9bOBOcjE8vB+X5C3ctJE1T</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>1D91F672-FBD6-463A-96A4-43A82DE70229</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>advgui</string>
+			<key>text</key>
+			<string>Adv 360 GUI Keymap</string>
+			<key>url</key>
+			<string>https://kinesiscorporation.github.io/Adv360-Pro-GUI/</string>
+		</dict>
+		<key>1E690918-1172-4E76-8D09-1D32FD2C94ED</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>scope</string>
+			<key>text</key>
+			<string>UBC SCOPE</string>
+			<key>url</key>
+			<string>https://scope.sciencecoop.ubc.ca/myAccount/dashboard.htm</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>21E28F4D-7926-4E56-8A54-BC58E430A4B6</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>google</string>
+			<key>text</key>
+			<string>Google</string>
+			<key>url</key>
+			<string>https://www.google.com/?client=safari&amp;channel=mac_bm</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>2A4E11BD-A2CF-43D0-93DC-CED99B484D63</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>ubc email</string>
+			<key>text</key>
+			<string>UBC Email</string>
+			<key>url</key>
+			<string>https://webmail.student.ubc.ca</string>
+		</dict>
+		<key>30129032-BFF7-4C76-B16F-9B43A6AAC3F6</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>ㄴ</string>
+			<key>text</key>
+			<string>Naver search</string>
+			<key>url</key>
+			<string>https://search.naver.com/search.naver?where=nexearch&amp;sm=top_hty&amp;fbm=0&amp;ie=utf8&amp;query={query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>48A09D2F-4AAF-45BF-8E03-20EFD577A5A7</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>ubc scope</string>
+			<key>text</key>
+			<string>UBC SCOPE</string>
+			<key>url</key>
+			<string>https://scope.sciencecoop.ubc.ca/myAccount/dashboard.htm</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>66F4AF46-AA4F-4556-9222-B35766F1B145</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>email</string>
+			<key>text</key>
+			<string>UBC Email</string>
+			<key>url</key>
+			<string>https://webmail.student.ubc.ca</string>
+		</dict>
+		<key>AB7C3DEC-7952-48BB-A4CD-DDC132C022E6</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>ubc</string>
+			<key>text</key>
+			<string>UBC</string>
+			<key>url</key>
+			<string>https://www.ubc.ca</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>B5242B02-E72D-43EB-BDE3-9C24B8E124D3</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>canvas</string>
+			<key>text</key>
+			<string>UBC Canvas</string>
+			<key>url</key>
+			<string>https://canvas.ubc.ca</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>B76CBD89-D9CA-4CA3-A1E2-F61674A5FF66</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>ubc canvas</string>
+			<key>text</key>
+			<string>UBC Canvas</string>
+			<key>url</key>
+			<string>https://canvas.ubc.ca</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>BD6C84AF-2D61-4673-BF48-AC49FAD31D8D</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>naver</string>
+			<key>text</key>
+			<string>Naver</string>
+			<key>url</key>
+			<string>https://www.naver.com</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>C0020A51-3FBB-46F3-B7A9-5DE2944D33B1</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>ubc ssc</string>
+			<key>text</key>
+			<string>UBC SSC</string>
+			<key>url</key>
+			<string>https://ssc.adm.ubc.ca/sscportal/servlets/SRVSSCFramework;jsessionid=fg9bOBOcjE8vB+X5C3ctJE1T</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>C14B726C-4400-4C79-8568-F50DC48C4887</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>edx</string>
+			<key>text</key>
+			<string>UBC CPSC210 edX</string>
+			<key>url</key>
+			<string>https://learning.edge.edx.org/course/course-v1:UBC+CPSC210+all/home</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>C7AD2055-1D79-49BF-94B9-5C3DD4276532</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>linkedin</string>
+			<key>text</key>
+			<string>LinkedIn profile</string>
+			<key>url</key>
+			<string>https://www.linkedin.com/in/junhyeok-jang-58931a175/</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>E3C2BA93-0754-4AD8-8B97-4C5F9044A3A3</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>youtube</string>
+			<key>text</key>
+			<string>youtube</string>
+			<key>url</key>
+			<string>https://www.youtube.com</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
